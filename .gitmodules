@@ -1,0 +1,8 @@
+[submodule "dreamcoder"]
+	path = dreamcoder
+	url = git@github.com:samacqua/dreamcoder
+	branch = main
+[submodule "data/lax"]
+	path = data/lax
+	url = https://github.com/cogtoolslab/lax
+	ignore = all
