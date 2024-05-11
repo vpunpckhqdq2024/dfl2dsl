@@ -1,6 +1,6 @@
 [submodule "dreamcoder"]
 	path = dreamcoder
-	url = git@github.com:samacqua/dreamcoder
+	url = https://github.com/samacqua/dreamcoder
 	branch = main
 [submodule "data/lax"]
 	path = data/lax
